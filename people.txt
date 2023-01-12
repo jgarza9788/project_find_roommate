@@ -24,11 +24,28 @@ pro
 - not a NPC
 - get a long with 
 
+Charlotte
+con 
+pro
+
+
+Jay
+con
+pro
+
+Benjamin
+con 
+pro
 
 Tim
 con
 - tattoo artist 
+pro
+
 
 Adam
-
+pro
+- has a dog
+con
+- 
 
