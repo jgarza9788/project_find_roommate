@@ -85,7 +85,7 @@
 * asked about my vaccine status
   * i told you i moved away because of this, and you think it's a good idea to ask me this?
 * said he didn't want to move near republicans 
-  * well i don't think you'd like living one either
+  * well i don't think you'd like living with one either
 * he probably voted for Biden
   * MAGA! #letsGoBrandon MF!
 * asked if he can pay extra to get the room.
