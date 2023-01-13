@@ -80,7 +80,7 @@
 ## con 
 * 2 year old kid
   * there is a reason why they called them Terrible Twos
-* devorced 
+* divorced 
   * if you can't get along with your wife, why do i think you can get along with me? 
 * asked about my vaccine status
   * i told you i moved away because of this, and you think it's a good idea to ask me this?
