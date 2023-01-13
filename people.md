@@ -1,40 +1,57 @@
 
 <!--TOC-->
-- [Roxanne and boyfriend](#roxanne-and-boyfriend)
-- [Ben](#ben)
-- [Evan](#evan)
-- [Charlotte](#charlotte)
-- [Jay](#jay)
-- [Benjamin](#benjamin)
-- [Tim](#tim)
-- [Adam](#adam)
+* [Roxanne and boyfriend](#roxanne-and-boyfriend)
+	* [con](#con)
+	* [pro](#pro)
+* [Ben](#ben)
+	* [pro:](#pro:)
+	* [con](#con)
+* [Evan](#evan)
+	* [con](#con)
+	* [pro](#pro)
+* [Charlotte](#charlotte)
+	* [con](#con)
+	* [pro](#pro)
+* [Jay](#jay)
+	* [con](#con)
+	* [pro](#pro)
+	* [little plus](#little-plus)
+* [Benjamin](#benjamin)
+	* [con](#con)
+	* [pro](#pro)
+* [Tim](#tim)
+	* [con](#con)
+	* [pro](#pro)
+* [Adam](#adam)
+	* [pro](#pro)
+	* [con](#con)
 
 <!--TOC-->
 
 # Roxanne and boyfriend
-con
+## con
 * no future
 * kids
 * roxanne works for 711
 * boyfriend got gov checks
 * late 
-pro
+## pro
 * ???
 
 # Ben 
-pro:
+## pro:
 * professional 
 * needs a place
 * work from home
-con
+## con
 * no personality 
 
 # Evan
-con
+## con
 * young (19)
 * -200 per month
 * might leave in a year or so
-pro
+## pro
 * tech
 * not a NPC
 * get a long with 
@@ -42,19 +59,25 @@ pro
 * 
 
 # Charlotte
-con 
+## con 
 * never called me
-pro
+## pro
 *
 
 # Jay
-con
+## con
 * my nickname is Jay, and there can only be one!
-pro
-
+## pro
+* ex-coast guard
+* stuff in common 
+* chill
+* owns home defense tools (gun)
+* works from home
+## little plus
+* needs a place fast
 
 # Benjamin 
-con 
+## con 
 * 2 year old kid
   * there is a reason why they called them Terrible Twos
 * devorced 
@@ -67,19 +90,19 @@ con
   * MAGA! #pureblood MF!
 * asked if he can pay extra to get the room.
   * not with the BS above
-pro
+## pro
 * none... well he said he'll pay extra.
 >> but it's not about the money, it's about MAGA!
 >> MERICA! Fuck YEAH!
 
 # Tim
-con
+## con
 * tattoo artist 
-pro
+## pro
 
 
 # Adam
-pro
+## pro
 * has a dog
-con
+## con
 * 
