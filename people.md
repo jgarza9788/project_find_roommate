@@ -52,7 +52,16 @@ pro
 
 # Benjamin 
 con 
+* 2 year old kid
+* devorced 
+* asked about my vaccine status
+* said he didn't want to move near republicans 
+* he probably voted for Biden
+* asked if he can pay extra to get the room.
 pro
+* none... well he said he'll pay extra.
+>> but it's not about the money, it's about MAGA!
+>> MERICA! Fuck YEAH!
 
 # Tim
 con
