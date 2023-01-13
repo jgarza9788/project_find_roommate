@@ -1,30 +1,30 @@
 
 <!--TOC-->
-* [Roxanne and boyfriend](#roxanne-and-boyfriend)
-	* [con](#con)
-	* [pro](#pro)
-* [Ben](#ben)
-	* [pro:](#pro:)
-	* [con](#con)
-* [Evan](#evan)
-	* [con](#con)
-	* [pro](#pro)
-* [Charlotte](#charlotte)
-	* [con](#con)
-	* [pro](#pro)
-* [Jay](#jay)
-	* [con](#con)
-	* [pro](#pro)
-	* [little plus](#little-plus)
-* [Benjamin](#benjamin)
-	* [con](#con)
-	* [pro](#pro)
-* [Tim](#tim)
-	* [con](#con)
-	* [pro](#pro)
-* [Adam](#adam)
-	* [pro](#pro)
-	* [con](#con)
+- [Roxanne and boyfriend](#roxanne-and-boyfriend)
+  - [con](#con)
+  - [pro](#pro)
+- [Ben](#ben)
+  - [pro:](#pro-1)
+  - [con](#con-1)
+- [Evan](#evan)
+  - [con](#con-2)
+  - [pro](#pro-2)
+- [Charlotte](#charlotte)
+  - [con](#con-3)
+  - [pro](#pro-3)
+- [Jay](#jay)
+  - [con](#con-4)
+  - [pro](#pro-4)
+  - [little plus](#little-plus)
+- [Benjamin](#benjamin)
+  - [con](#con-5)
+  - [pro](#pro-5)
+- [Tim](#tim)
+  - [con](#con-6)
+  - [pro](#pro-6)
+- [Adam](#adam)
+  - [pro](#pro-7)
+  - [con](#con-7)
 
 <!--TOC-->
 
@@ -87,7 +87,7 @@
 * said he didn't want to move near republicans 
   * well i don't think you'd like living one either
 * he probably voted for Biden
-  * MAGA! #pureblood MF!
+  * MAGA! #letsGoBrandon MF!
 * asked if he can pay extra to get the room.
   * not with the BS above
 ## pro
