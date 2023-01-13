@@ -43,21 +43,30 @@ pro
 
 # Charlotte
 con 
+* never called me
 pro
+*
 
 # Jay
 con
 * my nickname is Jay, and there can only be one!
 pro
 
+
 # Benjamin 
 con 
 * 2 year old kid
+  * there is a reason why they called them Terrible Twos
 * devorced 
+  * if you can't get along with your wife, why do i think you can get along with me? 
 * asked about my vaccine status
+  * i told you i moved away because of this, and you think it's a good idea to ask me this?
 * said he didn't want to move near republicans 
+  * well i don't think you'd like living one either
 * he probably voted for Biden
+  * MAGA! #pureblood MF!
 * asked if he can pay extra to get the room.
+  * not with the BS above
 pro
 * none... well he said he'll pay extra.
 >> but it's not about the money, it's about MAGA!
@@ -74,4 +83,3 @@ pro
 * has a dog
 con
 * 
-
