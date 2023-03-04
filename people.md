@@ -98,8 +98,9 @@
 # Tim
 ## con
 * tattoo artist 
+* cancelled
 ## pro
-
+* none
 
 # Adam
 ## pro
