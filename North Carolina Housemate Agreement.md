@@ -4,10 +4,11 @@
 Date ___________________________
 
 This Housemate Agreement (hereinafter referred to as the "Agreement") is made and entered into by and between the undersigned individuals (hereinafter referred to as "Housemates" or "Cotenants" or "Tenants") for the purpose of jointly occupying the premises located at [  
-*  
-*  
-*  
-*  
+* ._________________________________________________________________________________ 
+* ._________________________________________________________________________________
+* ._________________________________________________________________________________
+* ._________________________________________________________________________________  
+
 ] (hereinafter referred to as the "Property").
 
 ## Term and Security Deposit
