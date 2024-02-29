@@ -25,7 +25,7 @@ This Housemate Agreement (hereinafter referred to as the "Agreement") is made an
 
 * The Housemates have signed a Lease Agreement with the landlord on [ __ / __ / ____ ], which expires on [ __ / __ / ____ ].
 
-* The total security deposit paid to the landlord is $[ _________ ].
+* The total movie in fee paid to the landlord is $[ _________ ].
 
 
 ### [ ] Month to Month (Payment Option 2)
@@ -35,7 +35,7 @@ This Housemate Agreement (hereinafter referred to as the "Agreement") is made an
 
 * The initial total monthly rent for the Property is $[ _________ ]. However, the landlord reserves the right to increase the rent upon providing [ ____ ] days written notice to the Housemates.
 
-* The total security deposit paid to the landlord is $[ _________ ].
+* The total movie in fee paid to the landlord is $[ _________ ].
 
 ## Rent
 
@@ -146,7 +146,7 @@ The designated Housemate, [ ___________________________ ], will be responsible f
 
 * In the event of a Housemate's departure, the remaining Housemates may seek a replacement Housemate, subject to landlord approval and signing a new Housemate Agreement.
 
-* The security deposit and any outstanding expenses will be divided among the Housemates according to the terms agreed upon at the start of the tenancy.
+* The any outstanding expenses will be divided among the Housemates according to the terms agreed upon at the start of the tenancy.
 
 ## Governing Law
 
@@ -162,21 +162,25 @@ Date: ___________________________
 Housemate 1:  
 Signature: ___________________________  
 Printed Name: ___________________________  
+SSN: ___________________________  
 Date: ___________________________  
 
 Housemate 2:  
 Signature: ___________________________  
 Printed Name: ___________________________  
+SSN: ___________________________  
 Date: ___________________________  
 
 Housemate 3:  
 Signature: ___________________________  
 Printed Name: ___________________________  
+SSN: ___________________________  
 Date: ___________________________  
 
 Housemate 4:  
 Signature: ___________________________  
 Printed Name: ___________________________  
+SSN: ___________________________  
 Date: ___________________________  
 
 
