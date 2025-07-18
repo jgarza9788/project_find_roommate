@@ -100,8 +100,16 @@ The designated Housemate, [ ___________________________ ], will be responsible f
 
 * Each Housemate is responsible for maintaining cleanliness and order in their own bedroom.
 
-* The Housemates will establish a cleaning schedule to distribute the responsibilities of cleaning the common areas on a rotating basis.
+* The Housemates will establish a cleaning schedule to distribute the responsibilities of cleaning the bedroom and common areas on a rotating basis.
 
+* if the landlord determines that the Housemate(s) are not maintaining cleanliness in a satisfactory manner, the landlord may request that the Housemates take corrective action or terminate the tenancy.
+    * corrective actions include (but not limited to)
+        * Ask the roommate to clean (dust, vacuum, mop, etc). 
+        * Ask the roommate to purchase cleaning supplies, products and/or services to help maintain cleanliness (at the roommates expense).
+        * Ask the roommate to bathe and/or groom their pet(s).
+        * Ask the roommate to keep a cleaning schedule (could possibliy include an expense).
+        * Ask the roommate to pay cleaning consulting fees (at the roommates expense).
+        
 ### Guest Policy
 
 * Each Housemate may have overnight guests, but the total number of guests staying overnight should not exceed [ ____ ] at any given time.
