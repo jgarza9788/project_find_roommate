@@ -107,7 +107,7 @@ The designated Housemate, [ ___________________________ ], will be responsible f
         * Ask the roommate to clean (dust, vacuum, mop, etc). 
         * Ask the roommate to purchase cleaning supplies, products and/or services to help maintain cleanliness (at the roommates expense).
         * Ask the roommate to bathe and/or groom their pet(s).
-        * Ask the roommate to keep a cleaning schedule (could possibliy include an expense).
+        * Ask the roommate to keep a cleaning schedule (could possibly include an expense).
         * Ask the roommate to pay cleaning consulting fees (at the roommates expense).
         
 ### Guest Policy
